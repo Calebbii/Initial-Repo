@@ -7,3 +7,5 @@ Repo used as a walkthrough on Git basics
 4. Create a license for the repo
 
 ## This were made in the branched denoted as sdfpt12
+
+## We want to solve a merge conflict
