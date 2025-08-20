@@ -9,3 +9,5 @@ Repo used as a walkthrough on Git basics
 ## This were made in the branched denoted as sdfpt12
 
 ## We want to solve a merge conflict
+
+## This is the final conflict simuation
